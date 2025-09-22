@@ -1,5 +1,5 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 江南大学一等奖学金.
 
 - National Scholarship for Graduate Student, 2024.
 
