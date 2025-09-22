@@ -1,9 +1,5 @@
 
-- 江南大学一等奖学金.
-
-- National Scholarship for Graduate Student, 2024.
-
-- First-Prize Scholarship (CUMT), 2024.
+- First-Prize Scholarship (JNU), 2024.
 
 - First-Prize Scholarship (CUMT), 2023.
 
