@@ -8,7 +8,7 @@ My research interests include megaconstellation cluster management and configura
 
 #### Contact
 
-Email: 18905616670@163.com
+Email: 18905616670@163.com. Wechat: 1890516670.
 
 #### Education
 M.E., Control Science and Engineering, Jiangnan University, 2023—2026.\
