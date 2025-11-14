@@ -5,10 +5,10 @@
 #### Published
 
 - Chengxi Zhang, <strong>Tianle Yin</strong>, Wenshuo Wang, Jin Wu, Jihe Wang, Yuhua Qi, Wei He. Clustering Strategy for Megaconstellation with Synergistic Energy and Size Considerations.
-<strong>IEEE Transactions on Aerospace and Electronic Systems</strong> <strong>[SCI检索，IF =4.7，JCR-Q1，导师一作，本人二作]</strong>
+<strong>IEEE Transactions on Aerospace and Electronic Systems</strong> <strong>[SCI检索，IF = 5.7，JCR-Q1，导师一作，本人二作]</strong>
 
 - <strong>Tianle Yin</strong>, Chengxi Zhang, Jihe Wang, Jin Wu, Renuganth Varatharajoo, Dezhi Xu, Bin Jiang. Configuration Maintenance in Multi-Satellite Orbits via Co-Phase and Control Optimization. 
-<strong>IEEE Transactions on Aerospace and Electronic Systems</strong> <strong>[SCI检索，IF =4.7，JCR-Q1]</strong>
+<strong>IEEE Transactions on Aerospace and Electronic Systems</strong> <strong>[SCI检索，IF = 5.7，JCR-Q1]</strong>
 
 - Weijie Xi, <strong>Tianle Yin</strong>, Zhe Liu, Jin Wu, Dezhi Xu, and Chengxi Zhang. Uncertainty-Handling Balance of a Unicycle Robot with Low-Power Flywheel.
 <strong>IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences</strong> <strong>[SCI检索，IF = 0.4，JCR-Q4]</strong>
