@@ -1,9 +1,10 @@
 
 <!--[![github](https://orcid.org/0009-0009-4319-8970)](https://172411yin.github.io/)-->
-
-He is currently a student member of IEEE.  He serves as a reviewer for <strong>Frontiers in Mechanical Engineering</strong> 
+I received my B.E. degree in Automation from Anhui Polytechnic University (AHPU), China, in 2023. 
+I am currently pursuing an M.E. degree in Control Science and Engineering at the School of Internet of Things Engineering, Jiangnan University (JNU), China. 
+I am a student member of IEEE and serve as a reviewer for <strong>Frontiers in Mechanical Engineering</strong> 
 and <strong>Frontiers in Aerospace Engineering</strong>.
-His research interests include megaconstellation cluster management and configuration maintenance.
+My research interests include megaconstellation cluster management and configuration maintenance.
 
 #### Contact
 
