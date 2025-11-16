@@ -1,5 +1,4 @@
 #### Submitted
-<<<<<<< HEAD
 N/A
 
 
