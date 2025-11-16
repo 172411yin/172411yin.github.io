@@ -2,7 +2,9 @@
 <!--[![github](https://orcid.org/0009-0009-4319-8970)](https://172411yin.github.io/)-->
 I received my B.E. degree in Automation from Anhui Polytechnic University (AHPU), China, in 2023. 
 I am currently pursuing an M.E. degree in Control Science and Engineering at the School of Internet of Things Engineering, Jiangnan University (JNU), China. 
-I am a student member of IEEE and serve as a reviewer for Frontiers in Mechanical Engineering and Frontiers in Aerospace Engineering.
+I am a student member of IEEE and serve as a reviewer for Frontiers in Mechanical Engineering and Frontiers in Aerospace Engineering. 
+Additionally, I have participated in sub-projects under the National Key R&D Program (Autonomous Navigation and Orbit Control Technology for Megaconstellations) 
+and projects funded by the National Natural Science Foundation of China.
 My research interests include megaconstellation cluster management and configuration maintenance.
 
 #### Contact
