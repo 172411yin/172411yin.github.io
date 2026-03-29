@@ -14,14 +14,12 @@ N/A
 - Weijie Xi, <strong>Tianle Yin</strong>, Zhe Liu, Jin Wu, Dezhi Xu, and Chengxi Zhang. Uncertainty-Handling Balance of a Unicycle Robot with Low-Power Flywheel.
 <strong>IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences</strong> <strong>[SCI检索，IF = 0.4，JCR-Q4]</strong>
 
--Chengxi Zhang, Ruiqiu Lu, <strong>Tianle Yin</strong>, Zhijian He, Lining Tan, Bing Huang, Dezhi Xu, Resilient Attitude Control under Sensor-Actuator Faults via Varying-Self-Learning Observers. 
-<strong>Aerospace Systems</strong><strong>[EI检索]</strong>
-
 - Ruiqiu Lu, <strong>Tianle Yin</strong>, Lianren Zhang, Caisheng Wei, Wei Wang, Chengxi Zhang. Fault-Tolerant Control of Industrial Pneumatic Valves using Self-Learning Observers.
 <strong>The 40th Youth Academic Annual Conference of Chinese Association of Automation (YAC2025) Zhengzhou</strong><strong> [EI会议] </strong>   
+
+-Chengxi Zhang, Ruiqiu Lu, <strong>Tianle Yin</strong>, Zhijian He, Lining Tan, Bing Huang, Dezhi Xu. Resilient Attitude Control under Sensor-Actuator Faults via Varying-Self-Learning Observers.  <strong>Aerospace Systems</strong><strong>[EI检索]</strong>
 
 - <strong>尹天乐</strong>, 李权, 吴荩, 张连仁, 许德智, 张承玺. 基于协同相位与控制优化的多卫星轨道构型维持. 
 <strong>2025年江苏省研究生“智能感知与自主控制”学术创新论坛</strong>  <strong>(最佳论文优秀奖)</strong>
 
-- Hao Wu, <strong>Tianle Yin＊</strong>. Data-Driven RUL Prediction of CMAPSS Jet Engines: A Swarm Intelligence-Optimized Transformer Approach.  
-<strong>Aerospace Engineering Communications</strong> <strong> [通讯作者] </strong>
+- Hao Wu, <strong>Tianle Yin＊</strong>. Data-Driven RUL Prediction of CMAPSS Jet Engines: A Swarm Intelligence-Optimized Transformer Approach.  <strong>Aerospace Engineering Communications</strong> <strong> [通讯作者] </strong>
