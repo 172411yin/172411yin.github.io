@@ -22,3 +22,6 @@ N/A
 
 - <strong>尹天乐</strong>, 李权, 吴荩, 张连仁, 许德智, 张承玺. 基于协同相位与控制优化的多卫星轨道构型维持. 
 <strong>2025年江苏省研究生“智能感知与自主控制”学术创新论坛</strong>  <strong>(最佳论文优秀奖)</strong>
+
+- Hao Wu, <strong>Tianle Yin＊</strong>. Data-Driven RUL Prediction of CMAPSS Jet Engines: A Swarm Intelligence-Optimized Transformer Approach.  
+<strong>Aerospace Engineering Communications</strong> <strong> [通讯作者] </strong>
