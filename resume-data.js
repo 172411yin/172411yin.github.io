@@ -110,12 +110,23 @@ window.resumeData = {
                     venue: "ICGNC2026",
                     details: "广西桂林 [发表，oral，EI 会议]"
                 },
-
                 {
                     title: "Data-Driven RUL Prediction of CMAPSS Jet Engines: A Swarm Intelligence-Optimized Transformer Approach",
                     authors: "Hao Wu, Tianle Yin*",
                     venue: "Aerospace Engineering Communications",
                     details: "[通讯作者]"
+                },
+                {
+                    title: "J2-Aware Joint Optimization of Fuel Station Placement and Satellite Assignment for SSO Satellite Clusters",
+                    authors: "Tianle Yin＊, Jiajing Zhu, Zheng Qiao, Shijie Xu, Lei Zhao",
+                    venue: "Aerospace Engineering Communications",
+                    details: "[发表，通讯作者]"
+                },
+                {
+                    title: "Data-Driven RUL Prediction of CMAPSS Jet Engines: A Swarm Intelligence-Optimized Transformer Approach",
+                    authors: "Hao Wu, Tianle Yin*",
+                    venue: "Aerospace Engineering Communications",
+                    details: "[发表，通讯作者]"
                 },
                 {
                     title: "Managing Mega-Constellations: A Starlink-Informed Review",
@@ -228,9 +239,10 @@ window.resumeData = {
             title: "获奖情况",
             items: [
                 "国家奖学金",
-                "江南大学一等学业奖学金",
+                "江南大学一等学业奖学金(1/80)",
                 "江南大学优秀研究生",
                 "江南大学优秀毕业研究生",
+                "中山大学一等学业奖学金(3/46)",
                 "江苏省研究生智能感知与自主控制学术创新论坛 最佳论文优秀奖 (2025年)"
             ]
         },
@@ -249,7 +261,7 @@ window.resumeData = {
 
     footer: {
         owner: "尹天乐",
-        affiliation: "中山大学",
+        affiliation: "中山大学 航空航天学院",
         homepageLabel: "谷歌学术",
         homepageUrl: "https://scholar.google.com.hk/citations?user=wUmhWDgAAAAJ&hl=zh-CN"
     }
